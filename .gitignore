@@ -1,0 +1,69 @@
+####################################
+# Node / TypeScript
+####################################
+node_modules/
+dist/
+build/
+coverage/
+
+####################################
+# Environment files (SECRETS)
+####################################
+.env
+.env.*
+!.env.example
+
+####################################
+# AWS credentials & configs
+####################################
+.aws/
+cdk.context.json
+cdk.out/
+
+####################################
+# Logs
+####################################
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+####################################
+# OS / Editor junk
+####################################
+.DS_Store
+Thumbs.db
+
+####################################
+# VS Code / Codespaces
+####################################
+.vscode/
+.devcontainer/
+
+####################################
+# CDK / CloudFormation temp
+####################################
+*.tmp
+*.cache
+
+####################################
+# Runtime artifacts
+####################################
+*.pid
+*.seed
+
+####################################
+# Optional: Ignore compiled JS but keep TS
+####################################
+**/*.js
+**/*.js.map
+
+####################################
+# Allow important config files
+####################################
+!package.json
+!package-lock.json
+!tsconfig.json
+!cdk.json
+!*.ts
+!*.md

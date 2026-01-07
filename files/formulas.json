@@ -1,0 +1,5210 @@
+{
+  "Auction Sheet": {
+    "A1": {
+      "formula": null,
+      "value": "White Bears"
+    },
+    "B1": {
+      "formula": null,
+      "value": "White Bears"
+    },
+    "C1": {
+      "formula": null,
+      "value": "White Bears"
+    },
+    "D1": {
+      "formula": null,
+      "value": "Black Pandas"
+    },
+    "E1": {
+      "formula": null,
+      "value": "Black Pandas"
+    },
+    "F1": {
+      "formula": null,
+      "value": "Black Pandas"
+    },
+    "G1": {
+      "formula": null,
+      "value": "Pink Panthers"
+    },
+    "H1": {
+      "formula": null,
+      "value": "Pink Panthers"
+    },
+    "I1": {
+      "formula": null,
+      "value": "Pink Panthers"
+    },
+    "J1": {
+      "formula": null,
+      "value": "Pink Panthers"
+    },
+    "K1": {
+      "formula": null,
+      "value": "Orange Tigers"
+    },
+    "L1": {
+      "formula": null,
+      "value": "Orange Tigers"
+    },
+    "M1": {
+      "formula": null,
+      "value": "Orange Tigers"
+    },
+    "N1": {
+      "formula": null,
+      "value": "Brown Rhinos"
+    },
+    "O1": {
+      "formula": null,
+      "value": "Brown Rhinos"
+    },
+    "P1": {
+      "formula": null,
+      "value": "Brown Rhinos"
+    },
+    "R1": {
+      "formula": null,
+      "value": "Sr. No."
+    },
+    "S1": {
+      "formula": null,
+      "value": "Player Name"
+    },
+    "T1": {
+      "formula": null,
+      "value": "Base Price"
+    },
+    "A2": {
+      "formula": null,
+      "value": "No"
+    },
+    "B2": {
+      "formula": null,
+      "value": "Player"
+    },
+    "C2": {
+      "formula": null,
+      "value": "Price"
+    },
+    "D2": {
+      "formula": null,
+      "value": "No"
+    },
+    "E2": {
+      "formula": null,
+      "value": "Player"
+    },
+    "F2": {
+      "formula": null,
+      "value": "Price"
+    },
+    "G2": {
+      "formula": null,
+      "value": "No"
+    },
+    "H2": {
+      "formula": null,
+      "value": "Player"
+    },
+    "J2": {
+      "formula": null,
+      "value": "Price"
+    },
+    "K2": {
+      "formula": null,
+      "value": "No"
+    },
+    "L2": {
+      "formula": null,
+      "value": "Player"
+    },
+    "M2": {
+      "formula": null,
+      "value": "Price"
+    },
+    "N2": {
+      "formula": null,
+      "value": "No"
+    },
+    "O2": {
+      "formula": null,
+      "value": "Player"
+    },
+    "P2": {
+      "formula": null,
+      "value": "Price"
+    },
+    "R2": {
+      "formula": null,
+      "value": 1
+    },
+    "S2": {
+      "formula": null,
+      "value": "Neeraj Singh Mehta"
+    },
+    "A3": {
+      "formula": null,
+      "value": 1
+    },
+    "B3": {
+      "formula": null,
+      "value": "Ankit K"
+    },
+    "C3": {
+      "formula": null,
+      "value": 25
+    },
+    "D3": {
+      "formula": null,
+      "value": 1
+    },
+    "E3": {
+      "formula": null,
+      "value": "Ritesh S"
+    },
+    "F3": {
+      "formula": null,
+      "value": 25
+    },
+    "G3": {
+      "formula": null,
+      "value": 1
+    },
+    "H3": {
+      "formula": null,
+      "value": "Vishal P"
+    },
+    "J3": {
+      "formula": null,
+      "value": 25
+    },
+    "K3": {
+      "formula": null,
+      "value": 1
+    },
+    "L3": {
+      "formula": null,
+      "value": "Dipesh S"
+    },
+    "M3": {
+      "formula": null,
+      "value": 25
+    },
+    "N3": {
+      "formula": null,
+      "value": 1
+    },
+    "O3": {
+      "formula": null,
+      "value": "Pratik M"
+    },
+    "P3": {
+      "formula": null,
+      "value": 25
+    },
+    "R3": {
+      "formula": null,
+      "value": 2
+    },
+    "S3": {
+      "formula": null,
+      "value": "Neelesh Nanda"
+    },
+    "A4": {
+      "formula": null,
+      "value": 2
+    },
+    "B4": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "C4": {
+      "formula": null,
+      "value": 25
+    },
+    "D4": {
+      "formula": null,
+      "value": 2
+    },
+    "E4": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "F4": {
+      "formula": null,
+      "value": 25
+    },
+    "G4": {
+      "formula": null,
+      "value": 2
+    },
+    "H4": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "J4": {
+      "formula": null,
+      "value": 25
+    },
+    "K4": {
+      "formula": null,
+      "value": 2
+    },
+    "L4": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "M4": {
+      "formula": null,
+      "value": 25
+    },
+    "N4": {
+      "formula": null,
+      "value": 2
+    },
+    "O4": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "P4": {
+      "formula": null,
+      "value": 25
+    },
+    "R4": {
+      "formula": null,
+      "value": 3
+    },
+    "S4": {
+      "formula": null,
+      "value": "Raunak Datar"
+    },
+    "A5": {
+      "formula": null,
+      "value": 3
+    },
+    "D5": {
+      "formula": null,
+      "value": 3
+    },
+    "G5": {
+      "formula": null,
+      "value": 3
+    },
+    "K5": {
+      "formula": null,
+      "value": 3
+    },
+    "N5": {
+      "formula": null,
+      "value": 3
+    },
+    "R5": {
+      "formula": null,
+      "value": 4
+    },
+    "S5": {
+      "formula": null,
+      "value": "Abhishek Naik"
+    },
+    "A6": {
+      "formula": null,
+      "value": 4
+    },
+    "D6": {
+      "formula": null,
+      "value": 4
+    },
+    "G6": {
+      "formula": null,
+      "value": 4
+    },
+    "K6": {
+      "formula": null,
+      "value": 4
+    },
+    "N6": {
+      "formula": null,
+      "value": 4
+    },
+    "R6": {
+      "formula": null,
+      "value": 5
+    },
+    "S6": {
+      "formula": null,
+      "value": "Sanchit Deshmukh"
+    },
+    "A7": {
+      "formula": null,
+      "value": 5
+    },
+    "D7": {
+      "formula": null,
+      "value": 5
+    },
+    "G7": {
+      "formula": null,
+      "value": 5
+    },
+    "K7": {
+      "formula": null,
+      "value": 5
+    },
+    "N7": {
+      "formula": null,
+      "value": 5
+    },
+    "R7": {
+      "formula": null,
+      "value": 6
+    },
+    "S7": {
+      "formula": null,
+      "value": "Pratham Patil"
+    },
+    "A8": {
+      "formula": null,
+      "value": 6
+    },
+    "D8": {
+      "formula": null,
+      "value": 6
+    },
+    "G8": {
+      "formula": null,
+      "value": 6
+    },
+    "K8": {
+      "formula": null,
+      "value": 6
+    },
+    "N8": {
+      "formula": null,
+      "value": 6
+    },
+    "R8": {
+      "formula": null,
+      "value": 7
+    },
+    "S8": {
+      "formula": null,
+      "value": "Govind Pandey"
+    },
+    "A9": {
+      "formula": null,
+      "value": 7
+    },
+    "D9": {
+      "formula": null,
+      "value": 7
+    },
+    "G9": {
+      "formula": null,
+      "value": 7
+    },
+    "K9": {
+      "formula": null,
+      "value": 7
+    },
+    "N9": {
+      "formula": null,
+      "value": 7
+    },
+    "R9": {
+      "formula": null,
+      "value": 8
+    },
+    "S9": {
+      "formula": null,
+      "value": "Abhijit Desale"
+    },
+    "A10": {
+      "formula": null,
+      "value": 8
+    },
+    "D10": {
+      "formula": null,
+      "value": 8
+    },
+    "G10": {
+      "formula": null,
+      "value": 8
+    },
+    "K10": {
+      "formula": null,
+      "value": 8
+    },
+    "N10": {
+      "formula": null,
+      "value": 8
+    },
+    "R10": {
+      "formula": null,
+      "value": 9
+    },
+    "S10": {
+      "formula": null,
+      "value": "Jordan Dey"
+    },
+    "A11": {
+      "formula": null,
+      "value": 9
+    },
+    "D11": {
+      "formula": null,
+      "value": 9
+    },
+    "G11": {
+      "formula": null,
+      "value": 9
+    },
+    "K11": {
+      "formula": null,
+      "value": 9
+    },
+    "N11": {
+      "formula": null,
+      "value": 9
+    },
+    "R11": {
+      "formula": null,
+      "value": 10
+    },
+    "S11": {
+      "formula": null,
+      "value": "Mandar Mayekar"
+    },
+    "R12": {
+      "formula": null,
+      "value": 11
+    },
+    "S12": {
+      "formula": null,
+      "value": "Rohit dongre"
+    },
+    "T12": {
+      "formula": null,
+      "value": 25
+    },
+    "R13": {
+      "formula": null,
+      "value": 12
+    },
+    "S13": {
+      "formula": null,
+      "value": "Satish Goyal"
+    },
+    "T13": {
+      "formula": null,
+      "value": 25
+    },
+    "A14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "B14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "C14": {
+      "formula": "SUM(C3:C13)",
+      "value": 50
+    },
+    "D14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "E14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "F14": {
+      "formula": "SUM(F3:F13)",
+      "value": 50
+    },
+    "G14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "H14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "J14": {
+      "formula": "SUM(J3:J13)",
+      "value": 50
+    },
+    "K14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "L14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "M14": {
+      "formula": "SUM(M3:M13)",
+      "value": 50
+    },
+    "N14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "O14": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "P14": {
+      "formula": "SUM(P3:P13)",
+      "value": 50
+    },
+    "R14": {
+      "formula": null,
+      "value": 13
+    },
+    "S14": {
+      "formula": null,
+      "value": "Gandhar Patwardhan"
+    },
+    "T14": {
+      "formula": null,
+      "value": 25
+    },
+    "A15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "B15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "C15": {
+      "formula": "9-COUNT(C3:C13)",
+      "value": 7
+    },
+    "D15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "E15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "F15": {
+      "formula": "9-COUNT(F3:F13)",
+      "value": 7
+    },
+    "G15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "H15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "J15": {
+      "formula": "9-COUNT(J3:J13)",
+      "value": 7
+    },
+    "K15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "L15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "M15": {
+      "formula": "9-COUNT(M3:M13)",
+      "value": 7
+    },
+    "N15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "O15": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "P15": {
+      "formula": "9-COUNT(P3:P13)",
+      "value": 7
+    },
+    "R15": {
+      "formula": null,
+      "value": 14
+    },
+    "S15": {
+      "formula": null,
+      "value": "Govind varma"
+    },
+    "T15": {
+      "formula": null,
+      "value": 25
+    },
+    "A16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "B16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "C16": {
+      "formula": " 1000-C14",
+      "value": 950
+    },
+    "D16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "E16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "F16": {
+      "formula": " 1000-F14",
+      "value": 950
+    },
+    "G16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "H16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "J16": {
+      "formula": " 1000-J14",
+      "value": 950
+    },
+    "K16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "L16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "M16": {
+      "formula": " 1000-M14",
+      "value": 950
+    },
+    "N16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "O16": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "P16": {
+      "formula": " 1000-P14",
+      "value": 950
+    },
+    "R16": {
+      "formula": null,
+      "value": 15
+    },
+    "S16": {
+      "formula": null,
+      "value": "Soumyadeep mukherjee"
+    },
+    "T16": {
+      "formula": null,
+      "value": 25
+    },
+    "A17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "B17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "C17": {
+      "formula": "C16-((C15-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "D17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "E17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "F17": {
+      "formula": "F16-((F15-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "G17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "H17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "J17": {
+      "formula": "J16-((J15-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "K17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "L17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "M17": {
+      "formula": "M16-((M15-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "N17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "O17": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "P17": {
+      "formula": "P16-((P15-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "R17": {
+      "formula": null,
+      "value": 16
+    },
+    "S17": {
+      "formula": null,
+      "value": "Ravindra Popatrao Jagdale"
+    },
+    "T17": {
+      "formula": null,
+      "value": 25
+    },
+    "B18": {
+      "formula": null,
+      "value": null
+    },
+    "C18": {
+      "formula": null,
+      "value": null
+    },
+    "D18": {
+      "formula": null,
+      "value": null
+    },
+    "E18": {
+      "formula": null,
+      "value": null
+    },
+    "F18": {
+      "formula": null,
+      "value": null
+    },
+    "G18": {
+      "formula": null,
+      "value": null
+    },
+    "H18": {
+      "formula": null,
+      "value": null
+    },
+    "I18": {
+      "formula": null,
+      "value": null
+    },
+    "J18": {
+      "formula": null,
+      "value": null
+    },
+    "K18": {
+      "formula": null,
+      "value": null
+    },
+    "L18": {
+      "formula": null,
+      "value": null
+    },
+    "M18": {
+      "formula": null,
+      "value": null
+    },
+    "N18": {
+      "formula": null,
+      "value": null
+    },
+    "O18": {
+      "formula": null,
+      "value": null
+    },
+    "P18": {
+      "formula": null,
+      "value": null
+    },
+    "R18": {
+      "formula": null,
+      "value": 17
+    },
+    "S18": {
+      "formula": null,
+      "value": "Adesh more"
+    },
+    "T18": {
+      "formula": null,
+      "value": 25
+    },
+    "A19": {
+      "formula": null,
+      "value": "Grey Fox"
+    },
+    "B19": {
+      "formula": null,
+      "value": "Grey Fox"
+    },
+    "C19": {
+      "formula": null,
+      "value": "Grey Fox"
+    },
+    "D19": {
+      "formula": null,
+      "value": "Red Bulls"
+    },
+    "E19": {
+      "formula": null,
+      "value": "Red Bulls"
+    },
+    "F19": {
+      "formula": null,
+      "value": "Red Bulls"
+    },
+    "G19": {
+      "formula": null,
+      "value": "Green Iguanas"
+    },
+    "H19": {
+      "formula": null,
+      "value": "Green Iguanas"
+    },
+    "I19": {
+      "formula": null,
+      "value": "Green Iguanas"
+    },
+    "J19": {
+      "formula": null,
+      "value": "Green Iguanas"
+    },
+    "K19": {
+      "formula": null,
+      "value": "Golden Eagles"
+    },
+    "L19": {
+      "formula": null,
+      "value": "Golden Eagles"
+    },
+    "M19": {
+      "formula": null,
+      "value": "Golden Eagles"
+    },
+    "N19": {
+      "formula": null,
+      "value": "Silver Snakes"
+    },
+    "O19": {
+      "formula": null,
+      "value": "Silver Snakes"
+    },
+    "P19": {
+      "formula": null,
+      "value": "Silver Snakes"
+    },
+    "R19": {
+      "formula": null,
+      "value": 18
+    },
+    "S19": {
+      "formula": null,
+      "value": "Pritish Manjavkar"
+    },
+    "T19": {
+      "formula": null,
+      "value": 25
+    },
+    "A20": {
+      "formula": null,
+      "value": "No"
+    },
+    "B20": {
+      "formula": null,
+      "value": "Player"
+    },
+    "C20": {
+      "formula": null,
+      "value": "Price"
+    },
+    "D20": {
+      "formula": null,
+      "value": "No"
+    },
+    "E20": {
+      "formula": null,
+      "value": "Player"
+    },
+    "F20": {
+      "formula": null,
+      "value": "Price"
+    },
+    "G20": {
+      "formula": null,
+      "value": "No"
+    },
+    "H20": {
+      "formula": null,
+      "value": "Player"
+    },
+    "J20": {
+      "formula": null,
+      "value": "Price"
+    },
+    "K20": {
+      "formula": null,
+      "value": "No"
+    },
+    "L20": {
+      "formula": null,
+      "value": "Player"
+    },
+    "M20": {
+      "formula": null,
+      "value": "Price"
+    },
+    "N20": {
+      "formula": null,
+      "value": "No"
+    },
+    "O20": {
+      "formula": null,
+      "value": "Player"
+    },
+    "P20": {
+      "formula": null,
+      "value": "Price"
+    },
+    "R20": {
+      "formula": null,
+      "value": 19
+    },
+    "S20": {
+      "formula": null,
+      "value": "Ankit Girhe"
+    },
+    "T20": {
+      "formula": null,
+      "value": 25
+    },
+    "A21": {
+      "formula": null,
+      "value": 1
+    },
+    "B21": {
+      "formula": null,
+      "value": "Varun "
+    },
+    "C21": {
+      "formula": null,
+      "value": 25
+    },
+    "D21": {
+      "formula": null,
+      "value": 1
+    },
+    "E21": {
+      "formula": null,
+      "value": "Archit T"
+    },
+    "F21": {
+      "formula": null,
+      "value": 25
+    },
+    "G21": {
+      "formula": null,
+      "value": 1
+    },
+    "H21": {
+      "formula": null,
+      "value": "Parmesh P"
+    },
+    "J21": {
+      "formula": null,
+      "value": 25
+    },
+    "K21": {
+      "formula": null,
+      "value": 1
+    },
+    "L21": {
+      "formula": null,
+      "value": "Hrishi S"
+    },
+    "M21": {
+      "formula": null,
+      "value": 25
+    },
+    "N21": {
+      "formula": null,
+      "value": 1
+    },
+    "O21": {
+      "formula": null,
+      "value": "Avinash S"
+    },
+    "P21": {
+      "formula": null,
+      "value": 25
+    },
+    "R21": {
+      "formula": null,
+      "value": 20
+    },
+    "S21": {
+      "formula": null,
+      "value": "Naman Doshi"
+    },
+    "T21": {
+      "formula": null,
+      "value": 25
+    },
+    "A22": {
+      "formula": null,
+      "value": 2
+    },
+    "B22": {
+      "formula": null,
+      "value": "Satish Goyal"
+    },
+    "C22": {
+      "formula": null,
+      "value": 25
+    },
+    "D22": {
+      "formula": null,
+      "value": 2
+    },
+    "E22": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "F22": {
+      "formula": null,
+      "value": 25
+    },
+    "G22": {
+      "formula": null,
+      "value": 2
+    },
+    "H22": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "J22": {
+      "formula": null,
+      "value": 25
+    },
+    "K22": {
+      "formula": null,
+      "value": 2
+    },
+    "L22": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "M22": {
+      "formula": null,
+      "value": 25
+    },
+    "N22": {
+      "formula": null,
+      "value": 2
+    },
+    "O22": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "P22": {
+      "formula": null,
+      "value": 100
+    },
+    "R22": {
+      "formula": null,
+      "value": 21
+    },
+    "S22": {
+      "formula": null,
+      "value": "Harshad Babade"
+    },
+    "T22": {
+      "formula": null,
+      "value": 50
+    },
+    "A23": {
+      "formula": null,
+      "value": 3
+    },
+    "B23": {
+      "formula": null,
+      "value": "Pratham"
+    },
+    "C23": {
+      "formula": null,
+      "value": 380
+    },
+    "D23": {
+      "formula": null,
+      "value": 3
+    },
+    "G23": {
+      "formula": null,
+      "value": 3
+    },
+    "K23": {
+      "formula": null,
+      "value": 3
+    },
+    "N23": {
+      "formula": null,
+      "value": 3
+    },
+    "R23": {
+      "formula": null,
+      "value": 22
+    },
+    "S23": {
+      "formula": null,
+      "value": "Rohit Thorat"
+    },
+    "T23": {
+      "formula": null,
+      "value": 50
+    },
+    "A24": {
+      "formula": null,
+      "value": 4
+    },
+    "B24": {
+      "formula": null,
+      "value": "Roshan"
+    },
+    "C24": {
+      "formula": null,
+      "value": 100
+    },
+    "D24": {
+      "formula": null,
+      "value": 4
+    },
+    "G24": {
+      "formula": null,
+      "value": 4
+    },
+    "K24": {
+      "formula": null,
+      "value": 4
+    },
+    "N24": {
+      "formula": null,
+      "value": 4
+    },
+    "R24": {
+      "formula": null,
+      "value": 23
+    },
+    "S24": {
+      "formula": null,
+      "value": "Ganesh Gavhane"
+    },
+    "T24": {
+      "formula": null,
+      "value": 50
+    },
+    "A25": {
+      "formula": null,
+      "value": 5
+    },
+    "B25": {
+      "formula": null,
+      "value": "Kiran"
+    },
+    "C25": {
+      "formula": null,
+      "value": 230
+    },
+    "D25": {
+      "formula": null,
+      "value": 5
+    },
+    "G25": {
+      "formula": null,
+      "value": 5
+    },
+    "K25": {
+      "formula": null,
+      "value": 5
+    },
+    "N25": {
+      "formula": null,
+      "value": 5
+    },
+    "R25": {
+      "formula": null,
+      "value": 24
+    },
+    "S25": {
+      "formula": null,
+      "value": "Hrushikesh tankkar"
+    },
+    "T25": {
+      "formula": null,
+      "value": 50
+    },
+    "A26": {
+      "formula": null,
+      "value": 6
+    },
+    "D26": {
+      "formula": null,
+      "value": 6
+    },
+    "G26": {
+      "formula": null,
+      "value": 6
+    },
+    "K26": {
+      "formula": null,
+      "value": 6
+    },
+    "N26": {
+      "formula": null,
+      "value": 6
+    },
+    "R26": {
+      "formula": null,
+      "value": 25
+    },
+    "S26": {
+      "formula": null,
+      "value": "Prasad Pradeep Khismatrao"
+    },
+    "T26": {
+      "formula": null,
+      "value": 50
+    },
+    "A27": {
+      "formula": null,
+      "value": 7
+    },
+    "D27": {
+      "formula": null,
+      "value": 7
+    },
+    "G27": {
+      "formula": null,
+      "value": 7
+    },
+    "K27": {
+      "formula": null,
+      "value": 7
+    },
+    "N27": {
+      "formula": null,
+      "value": 7
+    },
+    "R27": {
+      "formula": null,
+      "value": 26
+    },
+    "S27": {
+      "formula": null,
+      "value": "Manish Patil"
+    },
+    "T27": {
+      "formula": null,
+      "value": 50
+    },
+    "A28": {
+      "formula": null,
+      "value": 8
+    },
+    "D28": {
+      "formula": null,
+      "value": 8
+    },
+    "G28": {
+      "formula": null,
+      "value": 8
+    },
+    "K28": {
+      "formula": null,
+      "value": 8
+    },
+    "N28": {
+      "formula": null,
+      "value": 8
+    },
+    "R28": {
+      "formula": null,
+      "value": 27
+    },
+    "S28": {
+      "formula": null,
+      "value": "Sushil Bhosale"
+    },
+    "T28": {
+      "formula": null,
+      "value": 50
+    },
+    "A29": {
+      "formula": null,
+      "value": 9
+    },
+    "D29": {
+      "formula": null,
+      "value": 9
+    },
+    "G29": {
+      "formula": null,
+      "value": 9
+    },
+    "K29": {
+      "formula": null,
+      "value": 9
+    },
+    "N29": {
+      "formula": null,
+      "value": 9
+    },
+    "R29": {
+      "formula": null,
+      "value": 28
+    },
+    "S29": {
+      "formula": null,
+      "value": "Ashish Sumariya"
+    },
+    "T29": {
+      "formula": null,
+      "value": 50
+    },
+    "R30": {
+      "formula": null,
+      "value": 29
+    },
+    "S30": {
+      "formula": null,
+      "value": "Avinash Shelke"
+    },
+    "T30": {
+      "formula": null,
+      "value": 50
+    },
+    "R31": {
+      "formula": null,
+      "value": 30
+    },
+    "S31": {
+      "formula": null,
+      "value": "Ambrish"
+    },
+    "T31": {
+      "formula": null,
+      "value": 50
+    },
+    "A32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "B32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "C32": {
+      "formula": "SUM(C21:C31)",
+      "value": 760
+    },
+    "D32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "E32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "F32": {
+      "formula": "SUM(F21:F31)",
+      "value": 50
+    },
+    "G32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "H32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "J32": {
+      "formula": "SUM(J21:J31)",
+      "value": 50
+    },
+    "K32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "L32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "M32": {
+      "formula": "SUM(M21:M31)",
+      "value": 50
+    },
+    "N32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "O32": {
+      "formula": null,
+      "value": "Amount Consumed"
+    },
+    "P32": {
+      "formula": "SUM(P21:P31)",
+      "value": 125
+    },
+    "R32": {
+      "formula": null,
+      "value": 31
+    },
+    "S32": {
+      "formula": null,
+      "value": "satya vardhan"
+    },
+    "T32": {
+      "formula": null,
+      "value": 50
+    },
+    "A33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "B33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "C33": {
+      "formula": "9-COUNT(C21:C31)",
+      "value": 4
+    },
+    "D33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "E33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "F33": {
+      "formula": "9-COUNT(F21:F31)",
+      "value": 7
+    },
+    "G33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "H33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "J33": {
+      "formula": "9-COUNT(J21:J31)",
+      "value": 7
+    },
+    "K33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "L33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "M33": {
+      "formula": "9-COUNT(M21:M31)",
+      "value": 7
+    },
+    "N33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "O33": {
+      "formula": null,
+      "value": "Players left"
+    },
+    "P33": {
+      "formula": "9-COUNT(P21:P31)",
+      "value": 7
+    },
+    "R33": {
+      "formula": null,
+      "value": 32
+    },
+    "S33": {
+      "formula": null,
+      "value": "Kapil D"
+    },
+    "T33": {
+      "formula": null,
+      "value": 50
+    },
+    "A34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "B34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "C34": {
+      "formula": " 1000-F35",
+      "value": 328.5714286
+    },
+    "D34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "E34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "F34": {
+      "formula": " 1000-F32",
+      "value": 950
+    },
+    "G34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "H34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "J34": {
+      "formula": " 1000-J32",
+      "value": 950
+    },
+    "K34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "L34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "M34": {
+      "formula": " 1000-M32",
+      "value": 950
+    },
+    "N34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "O34": {
+      "formula": null,
+      "value": "Amount left"
+    },
+    "P34": {
+      "formula": " 1000-P32",
+      "value": 875
+    },
+    "R34": {
+      "formula": null,
+      "value": 33
+    },
+    "S34": {
+      "formula": null,
+      "value": "Archit Deshmukh"
+    },
+    "T34": {
+      "formula": null,
+      "value": 50
+    },
+    "A35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "B35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "C35": {
+      "formula": "C34-((C33-1)*$T$84)",
+      "value": 189.2857143
+    },
+    "D35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "E35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "F35": {
+      "formula": "F34-((F33-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "G35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "H35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "J35": {
+      "formula": "J34-((J33-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "K35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "L35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "M35": {
+      "formula": "M34-((M33-1)*$T$84)",
+      "value": 671.4285714
+    },
+    "N35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "O35": {
+      "formula": null,
+      "value": "Max Bid"
+    },
+    "P35": {
+      "formula": "P34-((P33-1)*$T$84)",
+      "value": 596.4285714
+    },
+    "R35": {
+      "formula": null,
+      "value": 34
+    },
+    "S35": {
+      "formula": null,
+      "value": "Anoop Nair"
+    },
+    "T35": {
+      "formula": null,
+      "value": 50
+    },
+    "R36": {
+      "formula": null,
+      "value": 35
+    },
+    "S36": {
+      "formula": null,
+      "value": "Pravin Chaudhari"
+    },
+    "T36": {
+      "formula": null,
+      "value": 50
+    },
+    "R37": {
+      "formula": null,
+      "value": 36
+    },
+    "S37": {
+      "formula": null,
+      "value": "Santosh Gawade"
+    },
+    "T37": {
+      "formula": null,
+      "value": 50
+    },
+    "R38": {
+      "formula": null,
+      "value": 37
+    },
+    "S38": {
+      "formula": null,
+      "value": "Rakesh Kumar"
+    },
+    "T38": {
+      "formula": null,
+      "value": 50
+    },
+    "R39": {
+      "formula": null,
+      "value": 38
+    },
+    "S39": {
+      "formula": null,
+      "value": "Shubham Bahad"
+    },
+    "T39": {
+      "formula": null,
+      "value": 50
+    },
+    "R40": {
+      "formula": null,
+      "value": 39
+    },
+    "S40": {
+      "formula": null,
+      "value": "Hemant shinde"
+    },
+    "T40": {
+      "formula": null,
+      "value": 50
+    },
+    "R41": {
+      "formula": null,
+      "value": 40
+    },
+    "S41": {
+      "formula": null,
+      "value": "Swapnil Saraf"
+    },
+    "T41": {
+      "formula": null,
+      "value": 50
+    },
+    "R42": {
+      "formula": null,
+      "value": 41
+    },
+    "S42": {
+      "formula": null,
+      "value": "Sanjay Punjabi"
+    },
+    "T42": {
+      "formula": null,
+      "value": 50
+    },
+    "R43": {
+      "formula": null,
+      "value": 42
+    },
+    "S43": {
+      "formula": null,
+      "value": "Nilesh m.lad"
+    },
+    "T43": {
+      "formula": null,
+      "value": 50
+    },
+    "R44": {
+      "formula": null,
+      "value": 43
+    },
+    "S44": {
+      "formula": null,
+      "value": "Kiran Jadhav"
+    },
+    "T44": {
+      "formula": null,
+      "value": 50
+    },
+    "R45": {
+      "formula": null,
+      "value": 44
+    },
+    "S45": {
+      "formula": null,
+      "value": "Sujay Kulkarni"
+    },
+    "T45": {
+      "formula": null,
+      "value": 50
+    },
+    "R46": {
+      "formula": null,
+      "value": 45
+    },
+    "S46": {
+      "formula": null,
+      "value": "Alhad Vikas Phadke"
+    },
+    "T46": {
+      "formula": null,
+      "value": 50
+    },
+    "R47": {
+      "formula": null,
+      "value": 46
+    },
+    "S47": {
+      "formula": null,
+      "value": "Neeraj Deshpande"
+    },
+    "T47": {
+      "formula": null,
+      "value": 50
+    },
+    "R48": {
+      "formula": null,
+      "value": 47
+    },
+    "S48": {
+      "formula": null,
+      "value": "Prashant Chudnaik"
+    },
+    "T48": {
+      "formula": null,
+      "value": 50
+    },
+    "R49": {
+      "formula": null,
+      "value": 48
+    },
+    "S49": {
+      "formula": null,
+      "value": "Karan Thakkar"
+    },
+    "T49": {
+      "formula": null,
+      "value": 50
+    },
+    "R50": {
+      "formula": null,
+      "value": 49
+    },
+    "S50": {
+      "formula": null,
+      "value": "Prashant Suvarna"
+    },
+    "T50": {
+      "formula": null,
+      "value": 50
+    },
+    "R51": {
+      "formula": null,
+      "value": 50
+    },
+    "S51": {
+      "formula": null,
+      "value": "Abhijit Gavankar"
+    },
+    "T51": {
+      "formula": null,
+      "value": 50
+    },
+    "R52": {
+      "formula": null,
+      "value": 51
+    },
+    "S52": {
+      "formula": null,
+      "value": "Dipak Kathe"
+    },
+    "T52": {
+      "formula": null,
+      "value": 50
+    },
+    "R53": {
+      "formula": null,
+      "value": 52
+    },
+    "S53": {
+      "formula": null,
+      "value": "Parag Parekh"
+    },
+    "T53": {
+      "formula": null,
+      "value": 50
+    },
+    "R54": {
+      "formula": null,
+      "value": 53
+    },
+    "S54": {
+      "formula": null,
+      "value": "Akshay Kadam"
+    },
+    "T54": {
+      "formula": null,
+      "value": 50
+    },
+    "R55": {
+      "formula": null,
+      "value": 54
+    },
+    "S55": {
+      "formula": null,
+      "value": "Shailesh Hari Sanap"
+    },
+    "T55": {
+      "formula": null,
+      "value": 50
+    },
+    "R56": {
+      "formula": null,
+      "value": 55
+    },
+    "S56": {
+      "formula": null,
+      "value": "Nilesh Uttamrao Dhote"
+    },
+    "T56": {
+      "formula": null,
+      "value": 50
+    },
+    "R57": {
+      "formula": null,
+      "value": 56
+    },
+    "S57": {
+      "formula": null,
+      "value": "Rohan hemant raut"
+    },
+    "T57": {
+      "formula": null,
+      "value": 50
+    },
+    "R58": {
+      "formula": null,
+      "value": 57
+    },
+    "S58": {
+      "formula": null,
+      "value": "Prathmesh Prakash More"
+    },
+    "T58": {
+      "formula": null,
+      "value": 50
+    },
+    "R59": {
+      "formula": null,
+      "value": 58
+    },
+    "S59": {
+      "formula": null,
+      "value": "Vaibhav Kolhe"
+    },
+    "T59": {
+      "formula": null,
+      "value": 50
+    },
+    "R60": {
+      "formula": null,
+      "value": 59
+    },
+    "S60": {
+      "formula": null,
+      "value": "Roshan Nair"
+    },
+    "T60": {
+      "formula": null,
+      "value": 50
+    },
+    "R61": {
+      "formula": null,
+      "value": 60
+    },
+    "S61": {
+      "formula": null,
+      "value": "Nilesh Dandekar"
+    },
+    "T61": {
+      "formula": null,
+      "value": 50
+    },
+    "R62": {
+      "formula": null,
+      "value": 61
+    },
+    "S62": {
+      "formula": null,
+      "value": "Kaustubh Kulkarni"
+    },
+    "T62": {
+      "formula": null,
+      "value": 50
+    },
+    "R63": {
+      "formula": null,
+      "value": 62
+    },
+    "S63": {
+      "formula": null,
+      "value": "Manmit Niveria"
+    },
+    "T63": {
+      "formula": null,
+      "value": 50
+    },
+    "R64": {
+      "formula": null,
+      "value": 63
+    },
+    "S64": {
+      "formula": null,
+      "value": "Bharat Phegade"
+    },
+    "T64": {
+      "formula": null,
+      "value": 50
+    },
+    "R65": {
+      "formula": null,
+      "value": 64
+    },
+    "S65": {
+      "formula": null,
+      "value": "Akshay Jain"
+    },
+    "T65": {
+      "formula": null,
+      "value": 50
+    },
+    "R66": {
+      "formula": null,
+      "value": 65
+    },
+    "S66": {
+      "formula": null,
+      "value": "Abhijeet Warang"
+    },
+    "T66": {
+      "formula": null,
+      "value": 50
+    },
+    "R67": {
+      "formula": null,
+      "value": 66
+    },
+    "S67": {
+      "formula": null,
+      "value": "Sandeep Bhuse"
+    },
+    "T67": {
+      "formula": null,
+      "value": 50
+    },
+    "R68": {
+      "formula": null,
+      "value": 67
+    },
+    "S68": {
+      "formula": null,
+      "value": "Narayan Nadar"
+    },
+    "T68": {
+      "formula": null,
+      "value": 50
+    },
+    "R69": {
+      "formula": null,
+      "value": 68
+    },
+    "S69": {
+      "formula": null,
+      "value": "Paresh Bhatia"
+    },
+    "T69": {
+      "formula": null,
+      "value": 50
+    },
+    "R70": {
+      "formula": null,
+      "value": 69
+    },
+    "S70": {
+      "formula": null,
+      "value": "Sankshep Dwivedi"
+    },
+    "T70": {
+      "formula": null,
+      "value": 50
+    },
+    "R71": {
+      "formula": null,
+      "value": 70
+    },
+    "S71": {
+      "formula": null,
+      "value": "Ronak Rajendra kucheria"
+    },
+    "T71": {
+      "formula": null,
+      "value": 50
+    },
+    "R72": {
+      "formula": null,
+      "value": 71
+    },
+    "S72": {
+      "formula": null,
+      "value": "Vishal Darkunde"
+    },
+    "T72": {
+      "formula": null,
+      "value": 50
+    },
+    "R73": {
+      "formula": null,
+      "value": 72
+    },
+    "S73": {
+      "formula": null,
+      "value": "Anup Saindane"
+    },
+    "T73": {
+      "formula": null,
+      "value": 50
+    },
+    "R74": {
+      "formula": null,
+      "value": 73
+    },
+    "S74": {
+      "formula": null,
+      "value": "Amod Pathradkar"
+    },
+    "T74": {
+      "formula": null,
+      "value": 50
+    },
+    "R75": {
+      "formula": null,
+      "value": 74
+    },
+    "S75": {
+      "formula": null,
+      "value": "Pratik Chaugule"
+    },
+    "T75": {
+      "formula": null,
+      "value": 50
+    },
+    "R76": {
+      "formula": null,
+      "value": 75
+    },
+    "S76": {
+      "formula": null,
+      "value": "Sagar Kahane"
+    },
+    "T76": {
+      "formula": null,
+      "value": 50
+    },
+    "R77": {
+      "formula": null,
+      "value": 76
+    },
+    "S77": {
+      "formula": null,
+      "value": "Sumit Basak"
+    },
+    "T77": {
+      "formula": null,
+      "value": 50
+    },
+    "R78": {
+      "formula": null,
+      "value": 77
+    },
+    "S78": {
+      "formula": null,
+      "value": "Akshay Salvi"
+    },
+    "T78": {
+      "formula": null,
+      "value": 50
+    },
+    "R79": {
+      "formula": null,
+      "value": 78
+    },
+    "S79": {
+      "formula": null,
+      "value": "Arpan Shinde"
+    },
+    "T79": {
+      "formula": null,
+      "value": 50
+    },
+    "R80": {
+      "formula": null,
+      "value": 79
+    },
+    "S80": {
+      "formula": null,
+      "value": "Nitesh agare"
+    },
+    "T80": {
+      "formula": null,
+      "value": 50
+    },
+    "R81": {
+      "formula": null,
+      "value": 80
+    },
+    "S81": {
+      "formula": null,
+      "value": "Pravin katta"
+    },
+    "T81": {
+      "formula": null,
+      "value": 50
+    },
+    "S82": {
+      "formula": null,
+      "value": "Total Amount"
+    },
+    "T82": {
+      "formula": "SUM(T2:T81)",
+      "value": 3250
+    },
+    "S83": {
+      "formula": null,
+      "value": "Players Left"
+    },
+    "T83": {
+      "formula": "COUNT(T2:T81)",
+      "value": 70
+    },
+    "S84": {
+      "formula": null,
+      "value": "Average Price"
+    },
+    "T84": {
+      "formula": "T82/T83",
+      "value": 46.42857143
+    }
+  },
+  "Player List": {
+    "A1": {
+      "formula": null,
+      "value": "Player Full Name"
+    },
+    "B1": {
+      "formula": null,
+      "value": "Age"
+    },
+    "C1": {
+      "formula": null,
+      "value": "Skill"
+    },
+    "D1": {
+      "formula": null,
+      "value": "Society name"
+    },
+    "E1": {
+      "formula": null,
+      "value": "Wing"
+    },
+    "F1": {
+      "formula": null,
+      "value": "Flat No."
+    },
+    "G1": {
+      "formula": null,
+      "value": "Whatsapp Number"
+    },
+    "H1": {
+      "formula": null,
+      "value": "Auction Catagory"
+    },
+    "I1": {
+      "formula": null,
+      "value": "Serial No."
+    },
+    "A2": {
+      "formula": null,
+      "value": "Neeraj Singh Mehta"
+    },
+    "B2": {
+      "formula": null,
+      "value": 29
+    },
+    "C2": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D2": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E2": {
+      "formula": null,
+      "value": "C"
+    },
+    "F2": {
+      "formula": null,
+      "value": 1302
+    },
+    "G2": {
+      "formula": null,
+      "value": 9133012708
+    },
+    "H2": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I2": {
+      "formula": null,
+      "value": 1
+    },
+    "A3": {
+      "formula": null,
+      "value": "Neelesh Nanda"
+    },
+    "B3": {
+      "formula": null,
+      "value": 37
+    },
+    "C3": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D3": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E3": {
+      "formula": null,
+      "value": "B"
+    },
+    "F3": {
+      "formula": null,
+      "value": 202
+    },
+    "G3": {
+      "formula": null,
+      "value": 9004976664
+    },
+    "H3": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I3": {
+      "formula": null,
+      "value": 2
+    },
+    "A4": {
+      "formula": null,
+      "value": "Raunak Datar"
+    },
+    "B4": {
+      "formula": null,
+      "value": 32
+    },
+    "C4": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D4": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E4": {
+      "formula": null,
+      "value": "B"
+    },
+    "F4": {
+      "formula": null,
+      "value": 105
+    },
+    "G4": {
+      "formula": null,
+      "value": 7506277078
+    },
+    "H4": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I4": {
+      "formula": null,
+      "value": 3
+    },
+    "A5": {
+      "formula": null,
+      "value": "Abhishek Naik"
+    },
+    "B5": {
+      "formula": null,
+      "value": 24
+    },
+    "C5": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D5": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E5": {
+      "formula": null,
+      "value": "D"
+    },
+    "F5": {
+      "formula": null,
+      "value": 1101
+    },
+    "G5": {
+      "formula": null,
+      "value": 9003504240
+    },
+    "H5": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I5": {
+      "formula": null,
+      "value": 4
+    },
+    "A6": {
+      "formula": null,
+      "value": "Sanchit Deshmukh"
+    },
+    "B6": {
+      "formula": null,
+      "value": 33
+    },
+    "C6": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D6": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E6": {
+      "formula": null,
+      "value": "A"
+    },
+    "F6": {
+      "formula": null,
+      "value": 904
+    },
+    "G6": {
+      "formula": null,
+      "value": 9004281640
+    },
+    "H6": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I6": {
+      "formula": null,
+      "value": 5
+    },
+    "A7": {
+      "formula": null,
+      "value": "Pratham Patil"
+    },
+    "B7": {
+      "formula": null,
+      "value": 21
+    },
+    "C7": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D7": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E7": {
+      "formula": null,
+      "value": "D"
+    },
+    "F7": {
+      "formula": null,
+      "value": 3006
+    },
+    "G7": {
+      "formula": null,
+      "value": 8657389283
+    },
+    "H7": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I7": {
+      "formula": null,
+      "value": 6
+    },
+    "A8": {
+      "formula": null,
+      "value": "Govind Pandey"
+    },
+    "B8": {
+      "formula": null,
+      "value": 36
+    },
+    "C8": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D8": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E8": {
+      "formula": null,
+      "value": "C"
+    },
+    "F8": {
+      "formula": null,
+      "value": 111
+    },
+    "G8": {
+      "formula": null,
+      "value": 8104449435
+    },
+    "H8": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I8": {
+      "formula": null,
+      "value": 7
+    },
+    "A9": {
+      "formula": null,
+      "value": "Abhijit Desale"
+    },
+    "B9": {
+      "formula": null,
+      "value": 38
+    },
+    "C9": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D9": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E9": {
+      "formula": null,
+      "value": "A"
+    },
+    "F9": {
+      "formula": null,
+      "value": 603
+    },
+    "G9": {
+      "formula": null,
+      "value": 9619161375
+    },
+    "H9": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I9": {
+      "formula": null,
+      "value": 8
+    },
+    "A10": {
+      "formula": null,
+      "value": "Jordan Dey"
+    },
+    "B10": {
+      "formula": null,
+      "value": 32
+    },
+    "C10": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D10": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E10": {
+      "formula": null,
+      "value": "A"
+    },
+    "F10": {
+      "formula": null,
+      "value": 2704
+    },
+    "G10": {
+      "formula": null,
+      "value": 8879398947
+    },
+    "H10": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I10": {
+      "formula": null,
+      "value": 9
+    },
+    "A11": {
+      "formula": null,
+      "value": "Mandar Mayekar"
+    },
+    "B11": {
+      "formula": null,
+      "value": 39
+    },
+    "C11": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D11": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E11": {
+      "formula": null,
+      "value": "B"
+    },
+    "F11": {
+      "formula": null,
+      "value": 503
+    },
+    "G11": {
+      "formula": null,
+      "value": 9867251323
+    },
+    "H11": {
+      "formula": null,
+      "value": "ICON"
+    },
+    "I11": {
+      "formula": null,
+      "value": 10
+    },
+    "A12": {
+      "formula": null,
+      "value": "Rohit dongre"
+    },
+    "B12": {
+      "formula": null,
+      "value": 32
+    },
+    "C12": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D12": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E12": {
+      "formula": null,
+      "value": "A"
+    },
+    "F12": {
+      "formula": null,
+      "value": 902
+    },
+    "G12": {
+      "formula": null,
+      "value": 9004400500
+    },
+    "H12": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I12": {
+      "formula": null,
+      "value": 11
+    },
+    "A13": {
+      "formula": null,
+      "value": "Satish Goyal"
+    },
+    "B13": {
+      "formula": null,
+      "value": 39
+    },
+    "C13": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D13": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E13": {
+      "formula": null,
+      "value": "B"
+    },
+    "F13": {
+      "formula": null,
+      "value": 1906
+    },
+    "G13": {
+      "formula": null,
+      "value": 9821269595
+    },
+    "H13": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I13": {
+      "formula": null,
+      "value": 12
+    },
+    "A14": {
+      "formula": null,
+      "value": "Gandhar Patwardhan"
+    },
+    "B14": {
+      "formula": null,
+      "value": 35
+    },
+    "C14": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D14": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E14": {
+      "formula": null,
+      "value": "A"
+    },
+    "F14": {
+      "formula": null,
+      "value": 1205
+    },
+    "G14": {
+      "formula": null,
+      "value": 9821685866
+    },
+    "H14": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I14": {
+      "formula": null,
+      "value": 13
+    },
+    "A15": {
+      "formula": null,
+      "value": "Govind varma"
+    },
+    "B15": {
+      "formula": null,
+      "value": 37
+    },
+    "C15": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D15": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E15": {
+      "formula": null,
+      "value": "A"
+    },
+    "F15": {
+      "formula": null,
+      "value": 502
+    },
+    "G15": {
+      "formula": null,
+      "value": 9004491187
+    },
+    "H15": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I15": {
+      "formula": null,
+      "value": 14
+    },
+    "A16": {
+      "formula": null,
+      "value": "Soumyadeep mukherjee"
+    },
+    "B16": {
+      "formula": null,
+      "value": 47
+    },
+    "C16": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D16": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E16": {
+      "formula": null,
+      "value": "A"
+    },
+    "F16": {
+      "formula": null,
+      "value": 2005
+    },
+    "G16": {
+      "formula": null,
+      "value": 9762000831
+    },
+    "H16": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I16": {
+      "formula": null,
+      "value": 15
+    },
+    "A17": {
+      "formula": null,
+      "value": "Ravindra Popatrao Jagdale"
+    },
+    "B17": {
+      "formula": null,
+      "value": 46
+    },
+    "C17": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D17": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E17": {
+      "formula": null,
+      "value": "B"
+    },
+    "F17": {
+      "formula": null,
+      "value": 2204
+    },
+    "G17": {
+      "formula": null,
+      "value": 9769374477
+    },
+    "H17": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I17": {
+      "formula": null,
+      "value": 16
+    },
+    "A18": {
+      "formula": null,
+      "value": "Adesh more"
+    },
+    "B18": {
+      "formula": null,
+      "value": 45
+    },
+    "C18": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D18": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E18": {
+      "formula": null,
+      "value": "A"
+    },
+    "F18": {
+      "formula": null,
+      "value": 1405
+    },
+    "G18": {
+      "formula": null,
+      "value": 9664444059
+    },
+    "H18": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I18": {
+      "formula": null,
+      "value": 17
+    },
+    "A19": {
+      "formula": null,
+      "value": "Pritish Manjavkar"
+    },
+    "B19": {
+      "formula": null,
+      "value": 38
+    },
+    "C19": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D19": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E19": {
+      "formula": null,
+      "value": "B"
+    },
+    "F19": {
+      "formula": null,
+      "value": 301
+    },
+    "G19": {
+      "formula": null,
+      "value": 9930858581
+    },
+    "H19": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I19": {
+      "formula": null,
+      "value": 18
+    },
+    "A20": {
+      "formula": null,
+      "value": "Ankit Girhe"
+    },
+    "B20": {
+      "formula": null,
+      "value": 34
+    },
+    "C20": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D20": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E20": {
+      "formula": null,
+      "value": "B"
+    },
+    "F20": {
+      "formula": null,
+      "value": 605
+    },
+    "G20": {
+      "formula": null,
+      "value": 7276856498
+    },
+    "H20": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I20": {
+      "formula": null,
+      "value": 19
+    },
+    "A21": {
+      "formula": null,
+      "value": "Naman Doshi"
+    },
+    "B21": {
+      "formula": null,
+      "value": 35
+    },
+    "C21": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D21": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E21": {
+      "formula": null,
+      "value": "B"
+    },
+    "F21": {
+      "formula": null,
+      "value": 2305
+    },
+    "G21": {
+      "formula": null,
+      "value": 8080551661
+    },
+    "H21": {
+      "formula": null,
+      "value": "Debutant"
+    },
+    "I21": {
+      "formula": null,
+      "value": 20
+    },
+    "A22": {
+      "formula": null,
+      "value": "Harshad Babade"
+    },
+    "B22": {
+      "formula": null,
+      "value": 32
+    },
+    "C22": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D22": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E22": {
+      "formula": null,
+      "value": "A"
+    },
+    "F22": {
+      "formula": null,
+      "value": 305
+    },
+    "G22": {
+      "formula": null,
+      "value": 9619760033
+    },
+    "H22": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I22": {
+      "formula": null,
+      "value": 21
+    },
+    "A23": {
+      "formula": null,
+      "value": "Rohit Thorat"
+    },
+    "B23": {
+      "formula": null,
+      "value": 35
+    },
+    "C23": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D23": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E23": {
+      "formula": null,
+      "value": "D"
+    },
+    "F23": {
+      "formula": null,
+      "value": 904
+    },
+    "G23": {
+      "formula": null,
+      "value": 9820176079
+    },
+    "H23": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I23": {
+      "formula": null,
+      "value": 22
+    },
+    "A24": {
+      "formula": null,
+      "value": "Ganesh Gavhane"
+    },
+    "B24": {
+      "formula": null,
+      "value": 36
+    },
+    "C24": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D24": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E24": {
+      "formula": null,
+      "value": "B"
+    },
+    "F24": {
+      "formula": null,
+      "value": 102
+    },
+    "G24": {
+      "formula": null,
+      "value": 8108872051
+    },
+    "H24": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I24": {
+      "formula": null,
+      "value": 23
+    },
+    "A25": {
+      "formula": null,
+      "value": "Hrushikesh tankkar"
+    },
+    "B25": {
+      "formula": null,
+      "value": 36
+    },
+    "C25": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D25": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E25": {
+      "formula": null,
+      "value": "B"
+    },
+    "F25": {
+      "formula": null,
+      "value": 1501
+    },
+    "G25": {
+      "formula": null,
+      "value": 9773353367
+    },
+    "H25": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I25": {
+      "formula": null,
+      "value": 24
+    },
+    "A26": {
+      "formula": null,
+      "value": "Prasad Pradeep Khismatrao"
+    },
+    "B26": {
+      "formula": null,
+      "value": 26
+    },
+    "C26": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D26": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E26": {
+      "formula": null,
+      "value": "A"
+    },
+    "F26": {
+      "formula": null,
+      "value": 2001
+    },
+    "G26": {
+      "formula": null,
+      "value": 8408098100
+    },
+    "H26": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I26": {
+      "formula": null,
+      "value": 25
+    },
+    "A27": {
+      "formula": null,
+      "value": "Manish Patil"
+    },
+    "B27": {
+      "formula": null,
+      "value": 45
+    },
+    "C27": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D27": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E27": {
+      "formula": null,
+      "value": "B"
+    },
+    "F27": {
+      "formula": null,
+      "value": 1804
+    },
+    "G27": {
+      "formula": null,
+      "value": 9004025170
+    },
+    "H27": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I27": {
+      "formula": null,
+      "value": 26
+    },
+    "A28": {
+      "formula": null,
+      "value": "Sushil Bhosale"
+    },
+    "B28": {
+      "formula": null,
+      "value": 41
+    },
+    "C28": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D28": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E28": {
+      "formula": null,
+      "value": "A"
+    },
+    "F28": {
+      "formula": null,
+      "value": 304
+    },
+    "G28": {
+      "formula": null,
+      "value": 9769688514
+    },
+    "H28": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I28": {
+      "formula": null,
+      "value": 27
+    },
+    "A29": {
+      "formula": null,
+      "value": "Ashish Sumariya"
+    },
+    "B29": {
+      "formula": null,
+      "value": 37
+    },
+    "C29": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D29": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E29": {
+      "formula": null,
+      "value": "A"
+    },
+    "F29": {
+      "formula": null,
+      "value": 1106
+    },
+    "G29": {
+      "formula": null,
+      "value": 9820082612
+    },
+    "H29": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I29": {
+      "formula": null,
+      "value": 28
+    },
+    "A30": {
+      "formula": null,
+      "value": "Avinash Shelke"
+    },
+    "B30": {
+      "formula": null,
+      "value": 38
+    },
+    "C30": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D30": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E30": {
+      "formula": null,
+      "value": "A"
+    },
+    "F30": {
+      "formula": null,
+      "value": 1003
+    },
+    "G30": {
+      "formula": null,
+      "value": 9167240062
+    },
+    "H30": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I30": {
+      "formula": null,
+      "value": 29
+    },
+    "A31": {
+      "formula": null,
+      "value": "Ambrish"
+    },
+    "B31": {
+      "formula": null,
+      "value": 38
+    },
+    "C31": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D31": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E31": {
+      "formula": null,
+      "value": "B"
+    },
+    "F31": {
+      "formula": null,
+      "value": 602
+    },
+    "G31": {
+      "formula": null,
+      "value": 9167832822
+    },
+    "H31": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I31": {
+      "formula": null,
+      "value": 30
+    },
+    "A32": {
+      "formula": null,
+      "value": "satya vardhan"
+    },
+    "B32": {
+      "formula": null,
+      "value": 28
+    },
+    "C32": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D32": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E32": {
+      "formula": null,
+      "value": "D"
+    },
+    "F32": {
+      "formula": null,
+      "value": 1504
+    },
+    "G32": {
+      "formula": null,
+      "value": 9959204102
+    },
+    "H32": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I32": {
+      "formula": null,
+      "value": 31
+    },
+    "A33": {
+      "formula": null,
+      "value": "Kapil D"
+    },
+    "B33": {
+      "formula": null,
+      "value": 42
+    },
+    "C33": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D33": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E33": {
+      "formula": null,
+      "value": "D"
+    },
+    "F33": {
+      "formula": null,
+      "value": 1203
+    },
+    "G33": {
+      "formula": null,
+      "value": 7498757166
+    },
+    "H33": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I33": {
+      "formula": null,
+      "value": 32
+    },
+    "A34": {
+      "formula": null,
+      "value": "Archit Deshmukh"
+    },
+    "B34": {
+      "formula": null,
+      "value": 25
+    },
+    "C34": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D34": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E34": {
+      "formula": null,
+      "value": "A"
+    },
+    "F34": {
+      "formula": null,
+      "value": 904
+    },
+    "G34": {
+      "formula": null,
+      "value": 9004349759
+    },
+    "H34": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I34": {
+      "formula": null,
+      "value": 33
+    },
+    "A35": {
+      "formula": null,
+      "value": "Anoop Nair"
+    },
+    "B35": {
+      "formula": null,
+      "value": 37
+    },
+    "C35": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D35": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E35": {
+      "formula": null,
+      "value": "C"
+    },
+    "F35": {
+      "formula": null,
+      "value": 803
+    },
+    "G35": {
+      "formula": null,
+      "value": 9892380640
+    },
+    "H35": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I35": {
+      "formula": null,
+      "value": 34
+    },
+    "A36": {
+      "formula": null,
+      "value": "Pravin Chaudhari"
+    },
+    "B36": {
+      "formula": null,
+      "value": 43
+    },
+    "C36": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D36": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E36": {
+      "formula": null,
+      "value": "B"
+    },
+    "F36": {
+      "formula": null,
+      "value": 2402
+    },
+    "G36": {
+      "formula": null,
+      "value": 9960792439
+    },
+    "H36": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I36": {
+      "formula": null,
+      "value": 35
+    },
+    "A37": {
+      "formula": null,
+      "value": "Santosh Gawade"
+    },
+    "B37": {
+      "formula": null,
+      "value": 56
+    },
+    "C37": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D37": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E37": {
+      "formula": null,
+      "value": "B"
+    },
+    "F37": {
+      "formula": null,
+      "value": 2202
+    },
+    "G37": {
+      "formula": null,
+      "value": 9704403451
+    },
+    "H37": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I37": {
+      "formula": null,
+      "value": 36
+    },
+    "A38": {
+      "formula": null,
+      "value": "Rakesh Kumar"
+    },
+    "B38": {
+      "formula": null,
+      "value": 40
+    },
+    "C38": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D38": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E38": {
+      "formula": null,
+      "value": "D"
+    },
+    "F38": {
+      "formula": null,
+      "value": 2105
+    },
+    "G38": {
+      "formula": null,
+      "value": 8879607155
+    },
+    "H38": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I38": {
+      "formula": null,
+      "value": 37
+    },
+    "A39": {
+      "formula": null,
+      "value": "Shubham Bahad"
+    },
+    "B39": {
+      "formula": null,
+      "value": 30
+    },
+    "C39": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D39": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E39": {
+      "formula": null,
+      "value": "A wing"
+    },
+    "F39": {
+      "formula": null,
+      "value": 2902
+    },
+    "G39": {
+      "formula": null,
+      "value": 7415884361
+    },
+    "H39": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I39": {
+      "formula": null,
+      "value": 38
+    },
+    "A40": {
+      "formula": null,
+      "value": "Hemant shinde"
+    },
+    "B40": {
+      "formula": null,
+      "value": 35
+    },
+    "C40": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D40": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E40": {
+      "formula": null,
+      "value": "A"
+    },
+    "F40": {
+      "formula": null,
+      "value": 302
+    },
+    "G40": {
+      "formula": null,
+      "value": 8655829786
+    },
+    "H40": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I40": {
+      "formula": null,
+      "value": 39
+    },
+    "A41": {
+      "formula": null,
+      "value": "Swapnil Saraf"
+    },
+    "B41": {
+      "formula": null,
+      "value": 42
+    },
+    "C41": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "D41": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E41": {
+      "formula": null,
+      "value": "A"
+    },
+    "F41": {
+      "formula": null,
+      "value": 703
+    },
+    "G41": {
+      "formula": null,
+      "value": 7045688540
+    },
+    "H41": {
+      "formula": null,
+      "value": "Batsmen"
+    },
+    "I41": {
+      "formula": null,
+      "value": 40
+    },
+    "A42": {
+      "formula": null,
+      "value": "Sanjay Punjabi"
+    },
+    "B42": {
+      "formula": null,
+      "value": 36
+    },
+    "C42": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D42": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E42": {
+      "formula": null,
+      "value": "D"
+    },
+    "F42": {
+      "formula": null,
+      "value": 2702
+    },
+    "G42": {
+      "formula": null,
+      "value": 9860242724
+    },
+    "H42": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I42": {
+      "formula": null,
+      "value": 41
+    },
+    "A43": {
+      "formula": null,
+      "value": "Nilesh m.lad"
+    },
+    "B43": {
+      "formula": null,
+      "value": 53
+    },
+    "C43": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D43": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E43": {
+      "formula": null,
+      "value": "B"
+    },
+    "F43": {
+      "formula": null,
+      "value": 2501
+    },
+    "G43": {
+      "formula": null,
+      "value": 9820366592
+    },
+    "H43": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I43": {
+      "formula": null,
+      "value": 42
+    },
+    "A44": {
+      "formula": null,
+      "value": "Kiran Jadhav"
+    },
+    "B44": {
+      "formula": null,
+      "value": 29
+    },
+    "C44": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D44": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E44": {
+      "formula": null,
+      "value": "A"
+    },
+    "F44": {
+      "formula": null,
+      "value": 1304
+    },
+    "G44": {
+      "formula": null,
+      "value": 9960654479
+    },
+    "H44": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I44": {
+      "formula": null,
+      "value": 43
+    },
+    "A45": {
+      "formula": null,
+      "value": "Sujay Kulkarni"
+    },
+    "B45": {
+      "formula": null,
+      "value": 28
+    },
+    "C45": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D45": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E45": {
+      "formula": null,
+      "value": "D"
+    },
+    "F45": {
+      "formula": null,
+      "value": 2005
+    },
+    "G45": {
+      "formula": null,
+      "value": 9588681525
+    },
+    "H45": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I45": {
+      "formula": null,
+      "value": 44
+    },
+    "A46": {
+      "formula": null,
+      "value": "Alhad Vikas Phadke"
+    },
+    "B46": {
+      "formula": null,
+      "value": 42
+    },
+    "C46": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D46": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E46": {
+      "formula": null,
+      "value": "B"
+    },
+    "F46": {
+      "formula": null,
+      "value": 804
+    },
+    "G46": {
+      "formula": null,
+      "value": 9819481085
+    },
+    "H46": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I46": {
+      "formula": null,
+      "value": 45
+    },
+    "A47": {
+      "formula": null,
+      "value": "Neeraj Deshpande"
+    },
+    "B47": {
+      "formula": null,
+      "value": 45
+    },
+    "C47": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D47": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E47": {
+      "formula": null,
+      "value": "B"
+    },
+    "F47": {
+      "formula": null,
+      "value": 706
+    },
+    "G47": {
+      "formula": null,
+      "value": 9819229310
+    },
+    "H47": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I47": {
+      "formula": null,
+      "value": 46
+    },
+    "A48": {
+      "formula": null,
+      "value": "Prashant Chudnaik"
+    },
+    "B48": {
+      "formula": null,
+      "value": 40
+    },
+    "C48": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D48": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E48": {
+      "formula": null,
+      "value": "D"
+    },
+    "F48": {
+      "formula": null,
+      "value": 3004
+    },
+    "G48": {
+      "formula": null,
+      "value": 8939863644
+    },
+    "H48": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I48": {
+      "formula": null,
+      "value": 47
+    },
+    "A49": {
+      "formula": null,
+      "value": "Karan Thakkar"
+    },
+    "B49": {
+      "formula": null,
+      "value": 20
+    },
+    "C49": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D49": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E49": {
+      "formula": null,
+      "value": "A"
+    },
+    "F49": {
+      "formula": null,
+      "value": 1805
+    },
+    "G49": {
+      "formula": null,
+      "value": 7710068233
+    },
+    "H49": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I49": {
+      "formula": null,
+      "value": 48
+    },
+    "A50": {
+      "formula": null,
+      "value": "Prashant Suvarna"
+    },
+    "B50": {
+      "formula": null,
+      "value": 40
+    },
+    "C50": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D50": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E50": {
+      "formula": null,
+      "value": "B"
+    },
+    "F50": {
+      "formula": null,
+      "value": 1701
+    },
+    "G50": {
+      "formula": null,
+      "value": 9987606478
+    },
+    "H50": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I50": {
+      "formula": null,
+      "value": 49
+    },
+    "A51": {
+      "formula": null,
+      "value": "Abhijit Gavankar"
+    },
+    "B51": {
+      "formula": null,
+      "value": 49
+    },
+    "C51": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D51": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E51": {
+      "formula": null,
+      "value": "B"
+    },
+    "F51": {
+      "formula": null,
+      "value": 406
+    },
+    "G51": {
+      "formula": null,
+      "value": 8169637404
+    },
+    "H51": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I51": {
+      "formula": null,
+      "value": 50
+    },
+    "A52": {
+      "formula": null,
+      "value": "Dipak Kathe"
+    },
+    "B52": {
+      "formula": null,
+      "value": 60
+    },
+    "C52": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D52": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E52": {
+      "formula": null,
+      "value": "D"
+    },
+    "F52": {
+      "formula": null,
+      "value": 105
+    },
+    "G52": {
+      "formula": null,
+      "value": 9867270767
+    },
+    "H52": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I52": {
+      "formula": null,
+      "value": 51
+    },
+    "A53": {
+      "formula": null,
+      "value": "Parag Parekh"
+    },
+    "B53": {
+      "formula": null,
+      "value": 39
+    },
+    "C53": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D53": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E53": {
+      "formula": null,
+      "value": "C"
+    },
+    "F53": {
+      "formula": null,
+      "value": 1002
+    },
+    "G53": {
+      "formula": null,
+      "value": 9321113653
+    },
+    "H53": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I53": {
+      "formula": null,
+      "value": 52
+    },
+    "A54": {
+      "formula": null,
+      "value": "Akshay Kadam"
+    },
+    "B54": {
+      "formula": null,
+      "value": 32
+    },
+    "C54": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D54": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E54": {
+      "formula": null,
+      "value": "B"
+    },
+    "F54": {
+      "formula": null,
+      "value": 503
+    },
+    "G54": {
+      "formula": null,
+      "value": 9029147937
+    },
+    "H54": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I54": {
+      "formula": null,
+      "value": 53
+    },
+    "A55": {
+      "formula": null,
+      "value": "Shailesh Hari Sanap"
+    },
+    "B55": {
+      "formula": null,
+      "value": 41
+    },
+    "C55": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D55": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E55": {
+      "formula": null,
+      "value": "B"
+    },
+    "F55": {
+      "formula": null,
+      "value": 2407
+    },
+    "G55": {
+      "formula": null,
+      "value": 9594679742
+    },
+    "H55": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I55": {
+      "formula": null,
+      "value": 54
+    },
+    "A56": {
+      "formula": null,
+      "value": "Nilesh Uttamrao Dhote"
+    },
+    "B56": {
+      "formula": null,
+      "value": 41
+    },
+    "C56": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D56": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E56": {
+      "formula": null,
+      "value": "B"
+    },
+    "F56": {
+      "formula": null,
+      "value": 2002
+    },
+    "G56": {
+      "formula": null,
+      "value": 9867560419
+    },
+    "H56": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I56": {
+      "formula": null,
+      "value": 55
+    },
+    "A57": {
+      "formula": null,
+      "value": "Rohan hemant raut"
+    },
+    "B57": {
+      "formula": null,
+      "value": 42
+    },
+    "C57": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D57": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E57": {
+      "formula": null,
+      "value": "A"
+    },
+    "F57": {
+      "formula": null,
+      "value": 1802
+    },
+    "G57": {
+      "formula": null,
+      "value": 9870878889
+    },
+    "H57": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I57": {
+      "formula": null,
+      "value": 56
+    },
+    "A58": {
+      "formula": null,
+      "value": "Prathmesh Prakash More"
+    },
+    "B58": {
+      "formula": null,
+      "value": 29
+    },
+    "C58": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D58": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E58": {
+      "formula": null,
+      "value": "A"
+    },
+    "F58": {
+      "formula": null,
+      "value": 2402
+    },
+    "G58": {
+      "formula": null,
+      "value": 9870225421
+    },
+    "H58": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I58": {
+      "formula": null,
+      "value": 57
+    },
+    "A59": {
+      "formula": null,
+      "value": "Vaibhav Kolhe"
+    },
+    "B59": {
+      "formula": null,
+      "value": 44
+    },
+    "C59": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "D59": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E59": {
+      "formula": null,
+      "value": "A"
+    },
+    "F59": {
+      "formula": null,
+      "value": 905
+    },
+    "G59": {
+      "formula": null,
+      "value": 9769042960
+    },
+    "H59": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I59": {
+      "formula": null,
+      "value": 58
+    },
+    "A60": {
+      "formula": null,
+      "value": "Roshan Nair"
+    },
+    "B60": {
+      "formula": null,
+      "value": 34
+    },
+    "C60": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D60": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E60": {
+      "formula": null,
+      "value": "C"
+    },
+    "F60": {
+      "formula": null,
+      "value": 2504
+    },
+    "G60": {
+      "formula": null,
+      "value": 9967720095
+    },
+    "H60": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I60": {
+      "formula": null,
+      "value": 59
+    },
+    "A61": {
+      "formula": null,
+      "value": "Nilesh Dandekar"
+    },
+    "B61": {
+      "formula": null,
+      "value": 49
+    },
+    "C61": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D61": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E61": {
+      "formula": null,
+      "value": "B"
+    },
+    "F61": {
+      "formula": null,
+      "value": 2203
+    },
+    "G61": {
+      "formula": null,
+      "value": 9892458414
+    },
+    "H61": {
+      "formula": null,
+      "value": "Bowler"
+    },
+    "I61": {
+      "formula": null,
+      "value": 60
+    },
+    "A62": {
+      "formula": null,
+      "value": "Kaustubh Kulkarni"
+    },
+    "B62": {
+      "formula": null,
+      "value": 38
+    },
+    "C62": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D62": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E62": {
+      "formula": null,
+      "value": "A"
+    },
+    "F62": {
+      "formula": null,
+      "value": 704
+    },
+    "G62": {
+      "formula": null,
+      "value": 9819433363
+    },
+    "H62": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I62": {
+      "formula": null,
+      "value": 61
+    },
+    "A63": {
+      "formula": null,
+      "value": "Manmit Niveria"
+    },
+    "B63": {
+      "formula": null,
+      "value": 34
+    },
+    "C63": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D63": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E63": {
+      "formula": null,
+      "value": "D"
+    },
+    "F63": {
+      "formula": null,
+      "value": 3003
+    },
+    "G63": {
+      "formula": null,
+      "value": 9664580962
+    },
+    "H63": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I63": {
+      "formula": null,
+      "value": 62
+    },
+    "A64": {
+      "formula": null,
+      "value": "Bharat Phegade"
+    },
+    "B64": {
+      "formula": null,
+      "value": 39
+    },
+    "C64": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D64": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E64": {
+      "formula": null,
+      "value": "A"
+    },
+    "F64": {
+      "formula": null,
+      "value": 1806
+    },
+    "G64": {
+      "formula": null,
+      "value": 9619129989
+    },
+    "H64": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I64": {
+      "formula": null,
+      "value": 63
+    },
+    "A65": {
+      "formula": null,
+      "value": "Akshay Jain"
+    },
+    "B65": {
+      "formula": null,
+      "value": 37
+    },
+    "C65": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D65": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E65": {
+      "formula": null,
+      "value": "A"
+    },
+    "F65": {
+      "formula": null,
+      "value": 506
+    },
+    "G65": {
+      "formula": null,
+      "value": 7838899593
+    },
+    "H65": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I65": {
+      "formula": null,
+      "value": 64
+    },
+    "A66": {
+      "formula": null,
+      "value": "Abhijeet Warang"
+    },
+    "B66": {
+      "formula": null,
+      "value": 36
+    },
+    "C66": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D66": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E66": {
+      "formula": null,
+      "value": "C"
+    },
+    "F66": {
+      "formula": null,
+      "value": 2601
+    },
+    "G66": {
+      "formula": null,
+      "value": 9769226272
+    },
+    "H66": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I66": {
+      "formula": null,
+      "value": 65
+    },
+    "A67": {
+      "formula": null,
+      "value": "Sandeep Bhuse"
+    },
+    "B67": {
+      "formula": null,
+      "value": 42
+    },
+    "C67": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D67": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E67": {
+      "formula": null,
+      "value": "A"
+    },
+    "F67": {
+      "formula": null,
+      "value": 2601
+    },
+    "G67": {
+      "formula": null,
+      "value": 9619218490
+    },
+    "H67": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I67": {
+      "formula": null,
+      "value": 66
+    },
+    "A68": {
+      "formula": null,
+      "value": "Narayan Nadar"
+    },
+    "B68": {
+      "formula": null,
+      "value": 36
+    },
+    "C68": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D68": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E68": {
+      "formula": null,
+      "value": "B"
+    },
+    "F68": {
+      "formula": null,
+      "value": 1005
+    },
+    "G68": {
+      "formula": null,
+      "value": 9892466498
+    },
+    "H68": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I68": {
+      "formula": null,
+      "value": 67
+    },
+    "A69": {
+      "formula": null,
+      "value": "Paresh Bhatia"
+    },
+    "B69": {
+      "formula": null,
+      "value": 34
+    },
+    "C69": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D69": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E69": {
+      "formula": null,
+      "value": "A"
+    },
+    "F69": {
+      "formula": null,
+      "value": 2302
+    },
+    "G69": {
+      "formula": null,
+      "value": 9860181580
+    },
+    "H69": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I69": {
+      "formula": null,
+      "value": 68
+    },
+    "A70": {
+      "formula": null,
+      "value": "Sankshep Dwivedi"
+    },
+    "B70": {
+      "formula": null,
+      "value": 36
+    },
+    "C70": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D70": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E70": {
+      "formula": null,
+      "value": "B"
+    },
+    "F70": {
+      "formula": null,
+      "value": 802
+    },
+    "G70": {
+      "formula": null,
+      "value": 9408059795
+    },
+    "H70": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I70": {
+      "formula": null,
+      "value": 69
+    },
+    "A71": {
+      "formula": null,
+      "value": "Ronak Rajendra kucheria"
+    },
+    "B71": {
+      "formula": null,
+      "value": 36
+    },
+    "C71": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D71": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E71": {
+      "formula": null,
+      "value": "A"
+    },
+    "F71": {
+      "formula": null,
+      "value": 505
+    },
+    "G71": {
+      "formula": null,
+      "value": 9867884696
+    },
+    "H71": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I71": {
+      "formula": null,
+      "value": 70
+    },
+    "A72": {
+      "formula": null,
+      "value": "Vishal Darkunde"
+    },
+    "B72": {
+      "formula": null,
+      "value": 37
+    },
+    "C72": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D72": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E72": {
+      "formula": null,
+      "value": "A"
+    },
+    "F72": {
+      "formula": null,
+      "value": 1002
+    },
+    "G72": {
+      "formula": null,
+      "value": 8879080986
+    },
+    "H72": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I72": {
+      "formula": null,
+      "value": 71
+    },
+    "A73": {
+      "formula": null,
+      "value": "Anup Saindane"
+    },
+    "B73": {
+      "formula": null,
+      "value": 37
+    },
+    "C73": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D73": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E73": {
+      "formula": null,
+      "value": "A"
+    },
+    "F73": {
+      "formula": null,
+      "value": 1303
+    },
+    "G73": {
+      "formula": null,
+      "value": 9833030374
+    },
+    "H73": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I73": {
+      "formula": null,
+      "value": 72
+    },
+    "A74": {
+      "formula": null,
+      "value": "Amod Pathradkar"
+    },
+    "B74": {
+      "formula": null,
+      "value": 40
+    },
+    "C74": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D74": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E74": {
+      "formula": null,
+      "value": "B"
+    },
+    "F74": {
+      "formula": null,
+      "value": 1402
+    },
+    "G74": {
+      "formula": null,
+      "value": 9892049737
+    },
+    "H74": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I74": {
+      "formula": null,
+      "value": 73
+    },
+    "A75": {
+      "formula": null,
+      "value": "Pratik Chaugule"
+    },
+    "B75": {
+      "formula": null,
+      "value": 32
+    },
+    "C75": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D75": {
+      "formula": null,
+      "value": "Cedar"
+    },
+    "E75": {
+      "formula": null,
+      "value": "B"
+    },
+    "F75": {
+      "formula": null,
+      "value": 1406
+    },
+    "G75": {
+      "formula": null,
+      "value": 9029012347
+    },
+    "H75": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I75": {
+      "formula": null,
+      "value": 74
+    },
+    "A76": {
+      "formula": null,
+      "value": "Sagar Kahane"
+    },
+    "B76": {
+      "formula": null,
+      "value": 38
+    },
+    "C76": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D76": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E76": {
+      "formula": null,
+      "value": "B"
+    },
+    "F76": {
+      "formula": null,
+      "value": 1504
+    },
+    "G76": {
+      "formula": null,
+      "value": 9326826735
+    },
+    "H76": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I76": {
+      "formula": null,
+      "value": 75
+    },
+    "A77": {
+      "formula": null,
+      "value": "Sumit Basak"
+    },
+    "B77": {
+      "formula": null,
+      "value": 36
+    },
+    "C77": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D77": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E77": {
+      "formula": null,
+      "value": "D"
+    },
+    "F77": {
+      "formula": null,
+      "value": 2303
+    },
+    "G77": {
+      "formula": null,
+      "value": 9967352172
+    },
+    "H77": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I77": {
+      "formula": null,
+      "value": 76
+    },
+    "A78": {
+      "formula": null,
+      "value": "Akshay Salvi"
+    },
+    "B78": {
+      "formula": null,
+      "value": 30
+    },
+    "C78": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D78": {
+      "formula": null,
+      "value": "Pine"
+    },
+    "E78": {
+      "formula": null,
+      "value": "B"
+    },
+    "F78": {
+      "formula": null,
+      "value": 105
+    },
+    "G78": {
+      "formula": null,
+      "value": 9765487629
+    },
+    "H78": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I78": {
+      "formula": null,
+      "value": 77
+    },
+    "A79": {
+      "formula": null,
+      "value": "Arpan Shinde"
+    },
+    "B79": {
+      "formula": null,
+      "value": 17
+    },
+    "C79": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D79": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E79": {
+      "formula": null,
+      "value": "B"
+    },
+    "F79": {
+      "formula": null,
+      "value": 1006
+    },
+    "G79": {
+      "formula": null,
+      "value": 9152536652
+    },
+    "H79": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I79": {
+      "formula": null,
+      "value": 78
+    },
+    "A80": {
+      "formula": null,
+      "value": "Nitesh agare"
+    },
+    "B80": {
+      "formula": null,
+      "value": 27
+    },
+    "C80": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D80": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E80": {
+      "formula": null,
+      "value": "A"
+    },
+    "F80": {
+      "formula": null,
+      "value": 2704
+    },
+    "G80": {
+      "formula": null,
+      "value": 9137300387
+    },
+    "H80": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I80": {
+      "formula": null,
+      "value": 79
+    },
+    "A81": {
+      "formula": null,
+      "value": "Pravin katta"
+    },
+    "B81": {
+      "formula": null,
+      "value": 36
+    },
+    "C81": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "D81": {
+      "formula": null,
+      "value": "Oak"
+    },
+    "E81": {
+      "formula": null,
+      "value": "C"
+    },
+    "F81": {
+      "formula": null,
+      "value": 2202
+    },
+    "G81": {
+      "formula": null,
+      "value": 805006887
+    },
+    "H81": {
+      "formula": null,
+      "value": "All-Rounder"
+    },
+    "I81": {
+      "formula": null,
+      "value": 80
+    }
+  }
+}

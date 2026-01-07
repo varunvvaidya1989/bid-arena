@@ -45,5 +45,23 @@ export class AuctionDynamoDbStack extends Stack {
         type: dynamodb.AttributeType.STRING
       }
     });
+
+    /**
+     * AuctionTournaments Table - stores tournament meta, players, assignments and state
+     */
+    const auctionTournamentsTable = new dynamodb.Table(this, "AuctionTournamentsTable", {
+      tableName: "AuctionTournaments",
+      partitionKey: { name: "PK", type: dynamodb.AttributeType.STRING },
+      sortKey: { name: "SK", type: dynamodb.AttributeType.STRING },
+      billingMode: dynamodb.BillingMode.PAY_PER_REQUEST,
+      removalPolicy: RemovalPolicy.DESTROY
+    });
+
+    // GSI to query by SK values if needed (e.g., find all STATE# entries)
+    auctionTournamentsTable.addGlobalSecondaryIndex({
+      indexName: 'GSI_SK',
+      partitionKey: { name: 'SK', type: dynamodb.AttributeType.STRING },
+      sortKey: { name: 'PK', type: dynamodb.AttributeType.STRING }
+    });
   }
 }
